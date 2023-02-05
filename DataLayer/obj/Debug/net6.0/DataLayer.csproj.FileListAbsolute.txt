@@ -1,0 +1,12 @@
+E:\project test\API-OnionStracture\DataLayer\bin\Debug\net6.0\DataLayer.deps.json
+E:\project test\API-OnionStracture\DataLayer\bin\Debug\net6.0\DataLayer.dll
+E:\project test\API-OnionStracture\DataLayer\bin\Debug\net6.0\DataLayer.pdb
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.csproj.AssemblyReference.cache
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfoInputs.cache
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.AssemblyInfo.cs
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.csproj.CoreCompileInputs.cache
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.dll
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\refint\DataLayer.dll
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\DataLayer.pdb
+E:\project test\API-OnionStracture\DataLayer\obj\Debug\net6.0\ref\DataLayer.dll

@@ -1,0 +1,17 @@
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\Repository.deps.json
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\Repository.dll
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\Repository.pdb
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.csproj.AssemblyReference.cache
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.dll
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\refint\Repository.dll
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.pdb
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\ref\Repository.dll
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\DataLayer.dll
+E:\project test\API-OnionStracture\Repository\bin\Debug\net6.0\DataLayer.pdb
+E:\project test\API-OnionStracture\Repository\obj\Debug\net6.0\Repository.csproj.CopyComplete

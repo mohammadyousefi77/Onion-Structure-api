@@ -1,0 +1,17 @@
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\ServicesLayer.deps.json
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\ServicesLayer.dll
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\ServicesLayer.pdb
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.csproj.AssemblyReference.cache
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfoInputs.cache
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.AssemblyInfo.cs
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.csproj.CoreCompileInputs.cache
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.dll
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\refint\ServicesLayer.dll
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.pdb
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ref\ServicesLayer.dll
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\DataLayer.dll
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\Repository.dll
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\Repository.pdb
+E:\project test\API-OnionStracture\ServicesLayer\bin\Debug\net6.0\DataLayer.pdb
+E:\project test\API-OnionStracture\ServicesLayer\obj\Debug\net6.0\ServicesLayer.csproj.CopyComplete
